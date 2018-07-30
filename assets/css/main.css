@@ -2023,7 +2023,10 @@ input, select, textarea {
 
 	}
 
-	/* Responisve iframe video */
+	/*
+	* Responisve iframe video 
+	* https://blog.theodo.fr/2018/01/responsive-iframes-css-trick/
+	*/
 	.resp-container {
 		position: relative;
 		overflow: hidden;
